@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Вебсайт розкладу занять коледжу
 
 Це простий вебсайт, який показує розклад занять для студентів коледжу.  
@@ -15,8 +14,7 @@
 - Для студентів коледжу
 - Для викладачів
 
+Логотип
+
+
 ![Логотип сайту](images/logo.png)
-=======
-# documentation-lab-androshchuk
-A simple documentation demo-project for a college class schedule website
->>>>>>> f015ae9b3f64e6929af26b916c3a2e7df8d03396
